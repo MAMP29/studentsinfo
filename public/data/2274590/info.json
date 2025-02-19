@@ -1,0 +1,17 @@
+{
+  "nombre": "Miguel Angel Muñoz Piñeros",
+  "edad": 20,
+  "carrera": "Ingeniería de sistemas",
+  "semestre": 6,
+  "gustos": [
+    "F1",
+    "Comer",
+    "Android",
+    "Musica"
+  ],
+  "noGustos": [
+    "Ruidos fuertes",
+    "Situaciones incomodas"
+  ],
+  "foto": "https://i.postimg.cc/Z5SqPNGB/periclesblue.jpg"
+}
