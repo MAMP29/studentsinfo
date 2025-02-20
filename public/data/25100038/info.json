@@ -1,0 +1,10 @@
+{
+    "nombre": "Jojhan Daniel Castillo Prado",
+    "edad": 21,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 5,
+    "gustos": ["Sambo Ruso", "Comer", "UFC", "Programar" , "Entrenar"],
+    "noGustos": ["Dormi poco", "El LOL" , "Mentiras"],
+    "foto": "https://wallpapers.com/images/featured/ronnie-coleman-f937pr844gn7vh45.jpg"
+}
+  
