@@ -1,0 +1,11 @@
+{
+    "nombre": "Carlos Castillo",
+    "edad": 21,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Libros", "Animales", "Videojuegos", "Futbol"],
+    "noGustos": ["Madrugar","Ruido fuerte", "Tareas", "Esperar"],
+    "foto": "https://i.pinimg.com/736x/d4/da/21/d4da218e178a7218ccb9acbb31cb1168.jpg"
+}
+
+  
