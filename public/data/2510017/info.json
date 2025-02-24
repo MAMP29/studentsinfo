@@ -1,0 +1,11 @@
+{
+    "nombre": "Alexander Garzon",
+    "edad": 21,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 5,
+    "gustos": ["Fotos","Videojuegos","Series","Gimnnasio"],
+    "noGustos": ["Las cosas lentas","El mani","Hablar mucho"],
+    "foto": "https://i.postimg.cc/ZqpNnjgZ/Teoperro.jpg"
+}
+
+  
