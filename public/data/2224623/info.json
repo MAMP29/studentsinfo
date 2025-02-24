@@ -1,0 +1,9 @@
+{
+  "nombre": "Jose Miguel Fuertes",
+  "edad": 22,
+  "carrera": "Ingenieria de Sistemas",
+  "semestre": 7,
+  "gustos": ["Videojuegos", "Cine", "Musica", "Caminar"],
+  "noGustos": ["Clima Caliente", "Personas Ruidosas", "Tareas largas"],
+  "foto": "https://www.meme-arsenal.com/memes/fa254aaa573ddfc2b3c13c7b6305a038.jpg"
+}
